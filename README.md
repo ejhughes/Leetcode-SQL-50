@@ -6,7 +6,7 @@ Completing Leetcode's SQL 50 challenges
 |----- |-----------------------|------------------------------------------------------|
 | 1.   | [Recylable and Low Fat Products](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/select1.sql) | Select     |
 | 2.   | [Find Customer Referee](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/select2.sql) | Select     |
-| 3.   | [Big Countries](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/select3.sql) | SElect     |
+| 3.   | [Big Countries](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/select3.sql) | Select     |
 | 4.   | [x](x) | x     |
 | 5.   | [x](x) | x     |
 | 6.   | [x](x) | x     |
