@@ -14,7 +14,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 6.   | [Replace Employee ID with the Unique Identifier](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join1.sql) | Left Join     |
 | 7.   | [Product Sales Analysis](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join2.sql) | Join     |
 | 8.   | [Customers Who Visited But Did Not Make Any Transactions](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join3.sql) | Join, Where, Group by     |
-| 9.   | [x](x) | x     |
+| 9.   | [Rising Temperature](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join4.sql) | Left Join, Previous Row Comparison   |
 | 10.   | [x](x) | x     |
 | 11.   | [x](x) | x     |
 | 12.   | [x](x) | x     |
