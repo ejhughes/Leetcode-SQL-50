@@ -12,7 +12,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 4.   | [Artcile Views](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/select4.sql) | Select, Alias, Order by    |
 | 5.   | [Invalid Tweets](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/select5.sql) | Select, Length     |
 | 6.   | [Replace Employee ID with the Unique Identifier](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join1.sql) | Left Join     |
-| 7.   | [x](x) | x     |
+| 7.   | [Product Sales Analysis](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join2.sql) | Join     |
 | 8.   | [x](x) | x     |
 | 9.   | [x](x) | x     |
 | 10.   | [x](x) | x     |
