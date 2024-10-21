@@ -15,7 +15,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 7.   | [Product Sales Analysis](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join2.sql) | Join     |
 | 8.   | [Customers Who Visited But Did Not Make Any Transactions](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join3.sql) | Join, Where, Group by     |
 | 9.   | [Rising Temperature](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join4.sql) | Left Join, Previous Row Comparison   |
-| 10.   | [x](x) | x     |
+| 10.   | [Average Time of Process per Machine](https://github.com/ejhughes/Leetcode-SQL-50/tree/main) | Join, Where, Group By     |
 | 11.   | [x](x) | x     |
 | 12.   | [x](x) | x     |
 | 13.   | [x](x) | x     |
