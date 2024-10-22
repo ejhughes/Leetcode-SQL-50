@@ -17,7 +17,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 9.   | [Rising Temperature](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join4.sql) | Left Join, Previous Row Comparison   |
 | 10.   | [Average Time of Process per Machine](https://github.com/ejhughes/Leetcode-SQL-50/tree/main) | Join, Where, Group By     |
 | 11.   | [Employee Bonus](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join6.sql) | Join     |
-| 12.   | [x](x) | x     |
+| 12.   | [Students and Examinations](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join7.sql) | Cross Join    |
 | 13.   | [x](x) | x     |
 | 14.   | [x](x) | x     |
 | 15.   | [x](x) | x     |
