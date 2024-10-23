@@ -20,7 +20,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 12.   | [Students and Examinations](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join7.sql) | Cross Join    |
 | 13.   | [Managers with at Least 5 Direct Reports](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join8.sql) | Join, Having     |
 | 14.   | [Confirmation Rate](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join9.sql) | Join, Count, Group by     |
-| 15.   | [x](x) | x     |
+| 15.   | [Not Boring Movies](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation1.sql) | Aggregation, Modulo     |
 | 16.   | [x](x) | x     |
 | 17.   | [x](x) | x     |
 | 18.   | [x](x) | x     |
