@@ -18,7 +18,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 10.   | [Average Time of Process per Machine](https://github.com/ejhughes/Leetcode-SQL-50/tree/main) | Join, Where, Group By     |
 | 11.   | [Employee Bonus](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join6.sql) | Join     |
 | 12.   | [Students and Examinations](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join7.sql) | Cross Join    |
-| 13.   | [x](x) | x     |
+| 13.   | [Managers with at Least 5 Direct Reports](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/join8.sql) | Join, Having     |
 | 14.   | [x](x) | x     |
 | 15.   | [x](x) | x     |
 | 16.   | [x](x) | x     |
