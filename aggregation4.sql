@@ -41,3 +41,13 @@ CROSS JOIN
     ) u
 GROUP BY contest_id
 ORDER BY percentage desc, contest_id
+
+
+/* Alternative solution using sub-query in the SELECT stage to calculate percetage using: COUNT(user_id) from the Users table 
+select 
+contest_id, 
+round(count(user_id) * 100 /(select count(user_id) from Users) ,2) as percentage
+from  Register
+group by contest_id
+order by percentage desc,contest_id
+*/
