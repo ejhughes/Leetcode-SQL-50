@@ -23,7 +23,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 15.   | [Not Boring Movies](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation1.sql) | Aggregation, Modulo     |
 | 16.   | [Average Selling Price](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation2.sql) | Aggregation, Sum     |
 | 17.   | [Project Employees I](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation3.sql) | Aggregation, Average     |
-| 18.   | [x](x) | x     |
+| 18.   | [Percentage of Users Attended a Contest](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation4.sql) | Aggregation, Count, Sub-query     |
 | 19.   | [x](x) | x     |
 | 20.   | [x](x) | x     |
 | 21.   | [x](x) | x     |
