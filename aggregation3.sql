@@ -33,7 +33,7 @@ Write an SQL query that reports the average experience years of all the employee
 /* Solution */
 SELECT
     p.project_id
-    , AVG(experience_years) average_years
+    , ROUND(AVG(experience_years),2) average_years
 FROM Project p
 LEFT JOIN Employee e
     ON p.employee_id=e.employee_id
