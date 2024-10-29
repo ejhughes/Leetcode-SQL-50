@@ -25,7 +25,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 17.   | [Project Employees I](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation3.sql) | Aggregation, Average     |
 | 18.   | [Percentage of Users Attended a Contest](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation4.sql) | Aggregation, Count, Sub-query     |
 | 19.   | [Queries Quality and Percentage](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation5.sql) | Aggregation, Count, Case     |
-| 20.   | [x](x) | x     |
+| 20.   | [Monthly Transactions I](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation6.sql) | Aggregation, Count, Sum, DateTrunc     |
 | 21.   | [x](x) | x     |
 | 22.   | [x](x) | x     |
 | 23.   | [x](x) | x     |
