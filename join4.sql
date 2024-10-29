@@ -19,5 +19,5 @@ Write a solution to find all dates' id with higher temperatures compared to its 
 SELECT w.id
 FROM Weather w /* current day table */
 LEFT JOIN Weather v /* previous day table */
-    ON w.id = v.id + 1
+    ON w.recordDate = Date_Add(v.recordDate, INTERVAL 1 DAY)
 WHERE w.temperature - v.temperature > 0
