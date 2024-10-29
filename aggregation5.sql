@@ -42,8 +42,20 @@ with cte as(
 SELECT
     q.query_name
     , ROUND(AVG(rating/position),2) quality
-    , ROUND((cte.poor_query_n/COUNT(rating)*100),2) poor_query_percentage
+    , ROUND((IFNULL(cte.poor_query_n,0)/COUNT(rating)*100),2) poor_query_percentage
 FROM Queries q
 JOIN cte
     ON q.query_name=cte.query_name
+WHERE query_name IS NOT NULL
 GROUP BY query_name
+
+/* Alternative - more compact but didn't perform as well
+SELECT
+    query_name
+    , ROUND(AVG(rating/position),2) quality
+    , ROUND((SUM(CASE WHEN rating < 3 THEN 1 ELSE 0 END)/COUNT(*))*100,2) poor_query_percentage
+FROM Queries
+WHERE query_name IS NOT NULL
+GROUP BY query_name
+*/
+
