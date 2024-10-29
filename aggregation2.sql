@@ -33,11 +33,12 @@ Write a solution to find the average selling price for each product. average_pri
 
 /* Solution */
 SELECT p.product_id
-    , ROUND((SUM(price*units)/SUM(units)),2) average_price
+    , IFNULL(ROUND((SUM(price*units)/SUM(units)),2),0) average_price
 FROM Prices p
 LEFT JOIN UnitsSold s
     ON p.product_id=s.product_id 
-WHERE purchase_date >=start_date AND purchase_date <= end_date
+    AND s.purchase_date >= p.start_date
+    AND s.purchase_date <= p.end_date
 GROUP BY 1
 
 /* Alternative, converting potential Null from the Join into zeros and using the BETWEEN function
