@@ -28,11 +28,32 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 20.   | [Monthly Transactions I](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation6.sql) | Aggregation, Count, Sum, DateTrunc     |
 | 21.   | [Immediate Food Delivery II](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation7.sql) | Aggregation, Sum, Min, Count     |
 | 22.   | [Game Play Analysis IV](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/aggregation8.sql) | Aggregation, Sum, Count Distinct     |
-| 23.   | [Number of Unique Subjects Taught by Each Teacher](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort1.sql) | Group     |
-| 24.   | [x](x) | x     |
+| 23.   | [Number of Unique Subjects Taught by Each Teacher](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort1.sql) | Group by    |
+| 24.   | [User Activity for the Past 30 Days I](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort2.sql) | Group by, Where     |
 | 25.   | [x](x) | x     |
 | 26.   | [x](x) | x     |
 | 27.   | [x](x) | x     |
 | 28.   | [x](x) | x     |
 | 29.   | [x](x) | x     |
+| 30.   | [x](x) | x     |
+| 31.   | [x](x) | x     |
+| 32.   | [x](x) | x     |
+| 33.   | [x](x) | x     |
+| 34.   | [x](x) | x     |
+| 35.   | [x](x) | x     |
+| 36.   | [x](x) | x     |
+| 37.   | [x](x) | x     |
+| 38.   | [x](x) | x     |
+| 39.   | [x](x) | x     |
+| 40.   | [x](x) | x     |
+| 41.   | [x](x) | x     |
+| 42.   | [x](x) | x     |
+| 43.   | [x](x) | x     |
+| 44.   | [x](x) | x     |
+| 45.   | [x](x) | x     |
+| 46.   | [x](x) | x     |
+| 47.   | [x](x) | x     |
+| 48.   | [x](x) | x     |
+| 49.   | [x](x) | x     |
+| 50.   | [x](x) | x     |
 
