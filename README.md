@@ -31,7 +31,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 23.   | [Number of Unique Subjects Taught by Each Teacher](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort1.sql) | Group by    |
 | 24.   | [User Activity for the Past 30 Days I](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort2.sql) | Group by, Where     |
 | 25.   | [Product Sales Analysis III](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort3.sql) | Group by, Min, Join     |
-| 26.   | [x](x) | x     |
+| 26.   | [Classes More Than 5 Students](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort4.sql) | Group by, Having     |
 | 27.   | [x](x) | x     |
 | 28.   | [x](x) | x     |
 | 29.   | [x](x) | x     |
