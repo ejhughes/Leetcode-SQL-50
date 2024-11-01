@@ -33,7 +33,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 25.   | [Product Sales Analysis III](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort3.sql) | Group by, Min, Join     |
 | 26.   | [Classes More Than 5 Students](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort4.sql) | Group by, Having     |
 | 27.   | [Find Followers Count](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort5.sql) | Group by, Order by     |
-| 28.   | [x](x) | x     |
+| 28.   | [Biggest Single Number](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort6.sql) | Group by, Return Null if Empty     |
 | 29.   | [x](x) | x     |
 | 30.   | [x](x) | x     |
 | 31.   | [x](x) | x     |
