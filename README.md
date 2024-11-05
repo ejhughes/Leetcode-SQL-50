@@ -35,7 +35,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 27.   | [Find Followers Count](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort5.sql) | Group by, Order by     |
 | 28.   | [Biggest Single Number](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort6.sql) | Group by, Return Null if Empty     |
 | 29.   | [Customers Who Bought All Products](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort7.sql) | Group by, Join, Having     |
-| 30.   | [x](x) | x     |
+| 30.   | [The Number of Employees Which Report to Each Employee](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin1.sql) | Join     |
 | 31.   | [x](x) | x     |
 | 32.   | [x](x) | x     |
 | 33.   | [x](x) | x     |
