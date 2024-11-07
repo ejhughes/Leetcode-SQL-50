@@ -37,7 +37,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 29.   | [Customers Who Bought All Products](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/groupsort7.sql) | Group by, Join, Having     |
 | 30.   | [The Number of Employees Which Report to Each Employee](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin1.sql) | Join     |
 | 31.   | [Primary Department For Each Employee](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin2.sql) | Where, Select     |
-| 32.   | [x](x) | x     |
+| 32.   | [Triangle Judgement](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin3.sql) | Select, Greatest, Least     |
 | 33.   | [x](x) | x     |
 | 34.   | [x](x) | x     |
 | 35.   | [x](x) | x     |
