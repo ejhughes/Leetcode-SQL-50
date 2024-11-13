@@ -40,7 +40,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 32.   | [Triangle Judgement](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin3.sql) | Select, Greatest, Least     |
 | 33.   | [Consecutive Numbers](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin4.sql) | Join, Distinct     |
 | 34.   | [Product Price at Given Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin5.sql) | Join, Max, Case     |
-| 35.   | [x](x) | x     |
+| 35.   | [Last Person to Fit in the Bus](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin6.sql) | Nested Selects     |
 | 36.   | [x](x) | x     |
 | 37.   | [x](x) | x     |
 | 38.   | [x](x) | x     |
