@@ -42,7 +42,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 34.   | [Product Price at Given Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin5.sql) | Join, Max, Case     |
 | 35.   | [Last Person to Fit in the Bus](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin6.sql) | Nested Selects     |
 | 36.   | [Employees Whose Manager Left The Company](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries1.sql) | WHERE > SELECT, **   |
-| 37.   | [x](x) | x     |
+| 37.   | [Exchange Seats](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries2.sql) | SELECT, CASE     |
 | 38.   | [x](x) | x     |
 | 39.   | [x](x) | x     |
 | 40.   | [x](x) | x     |
