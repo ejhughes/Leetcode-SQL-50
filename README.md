@@ -41,9 +41,9 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 33.   | [Consecutive Numbers](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin4.sql) | Join, Distinct     |
 | 34.   | [Product Price at Given Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin5.sql) | Join, Max, Case     |
 | 35.   | [Last Person to Fit in the Bus](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin6.sql) | Nested Selects     |
-| 36.   | [Employees Whose Manager Left The Company](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries1.sql) | WHERE > SELECT, **   |
-| 37.   | [Exchange Seats](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries2.sql) | SELECT, CASE     |
-| 38.   | [x](x) | x     |
+| 36.   | [Employees Whose Manager Left The Company](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries1.sql) | Sub-Query, Where > Select, **   |
+| 37.   | [Exchange Seats](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries2.sql) | Sub-Query, Select, Case     |
+| 38.   | [Movie Rating](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries3.sql) | Sub-Query, Union All     |
 | 39.   | [x](x) | x     |
 | 40.   | [x](x) | x     |
 | 41.   | [x](x) | x     |
