@@ -44,7 +44,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 36.   | [Employees Whose Manager Left The Company](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries1.sql) | Sub-Query, Where > Select, **   |
 | 37.   | [Exchange Seats](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries2.sql) | Sub-Query, Select, Case     |
 | 38.   | [Movie Rating](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries3.sql) | Sub-Query, Union All     |
-| 39.   | [x](x) | x     |
+| 39.   | [Restaurant Growth](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries4.sql) | Sub-Query, Moving Average     |
 | 40.   | [x](x) | x     |
 | 41.   | [x](x) | x     |
 | 42.   | [x](x) | x     |
