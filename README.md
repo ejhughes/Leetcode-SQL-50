@@ -47,7 +47,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 39.   | [Restaurant Growth](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries4.sql) | Sub-Query, Moving Average     |
 | 40.   | [Friend Requests II: Who Has the Most Friends](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries5.sql) | Sub-Query, Union, Count     |
 | 41.   | [Investments in 2016](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries6.sql) | Sub-Query, Count     |
-| 42.   | [x](x) | x     |
+| 42.   | [Department Top 3 Salaries](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries7.sql) | Sub-Query, Join, Top 3     |
 | 43.   | [x](x) | x     |
 | 44.   | [x](x) | x     |
 | 45.   | [x](x) | x     |
