@@ -46,7 +46,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 38.   | [Movie Rating](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries3.sql) | Sub-Query, Union All     |
 | 39.   | [Restaurant Growth](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries4.sql) | Sub-Query, Moving Average     |
 | 40.   | [Friend Requests II: Who Has the Most Friends](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries5.sql) | Sub-Query, Union, Count     |
-| 41.   | [x](x) | x     |
+| 41.   | [Investments in 2016](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries6.sql) | Sub-Query, Count     |
 | 42.   | [x](x) | x     |
 | 43.   | [x](x) | x     |
 | 44.   | [x](x) | x     |
