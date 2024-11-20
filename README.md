@@ -55,7 +55,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 47.   | [Second Highest Salary](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings4.sql) | Max     |
 | 48.   | [Group Sold Products By The Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings5.sql) | Group Concat     |
 | 49.   | [List the Products Ordered in a Period](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings6.sql) | Date Format      |
-| 50.   | [x](x) | x     |
+| 50.   | [Find Users With Valid E-mails](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings7.sql) | Regexp     |
 
 **Had to review solutions. Was not able to find a solution or idea online
 
