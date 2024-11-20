@@ -41,20 +41,20 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 33.   | [Consecutive Numbers](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin4.sql) | Join, Distinct     |
 | 34.   | [Product Price at Given Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin5.sql) | Join, Max, Case     |
 | 35.   | [Last Person to Fit in the Bus](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/advjoin6.sql) | Nested Selects     |
-| 36.   | [Employees Whose Manager Left The Company](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries1.sql) | Sub-Query, Where > Select, **   |
-| 37.   | [Exchange Seats](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries2.sql) | Sub-Query, Select, Case     |
-| 38.   | [Movie Rating](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries3.sql) | Sub-Query, Union All     |
-| 39.   | [Restaurant Growth](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries4.sql) | Sub-Query, Moving Average     |
-| 40.   | [Friend Requests II: Who Has the Most Friends](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries5.sql) | Sub-Query, Union, Count     |
-| 41.   | [Investments in 2016](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries6.sql) | Sub-Query, Count     |
-| 42.   | [Department Top 3 Salaries](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries7.sql) | Sub-Query, Join, Top 3     |
-| 43.   | [Fix Names in a Table](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings1.sql) | Strings, Easy Title Case     |
-| 44.   | [Patients With a Condition](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings2.sql) | Strings, Regexp     |
-| 45.   | [Delete Duplicate Emails](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings3.sql) | Delete    |
-| 46.   | [Second Highest Salary](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings4.sql) | Max     |
-| 47.   | [Group Sold Products By The Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings5.sql) | Group Concat     |
-| 48.   | [List the Products Ordered in a Period](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings6.sql) | Date Format,      |
-| 49.   | [x](x) | x     |
+| 36.   | []() |      |
+| 37.   | [Employees Whose Manager Left The Company](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries1.sql) | Sub-Query, Where > Select, **   |
+| 38.   | [Exchange Seats](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries2.sql) | Sub-Query, Select, Case     |
+| 39.   | [Movie Rating](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries3.sql) | Sub-Query, Union All     |
+| 40.   | [Restaurant Growth](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries4.sql) | Sub-Query, Moving Average     |
+| 41.   | [Friend Requests II: Who Has the Most Friends](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries5.sql) | Sub-Query, Union, Count     |
+| 42.   | [Investments in 2016](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries6.sql) | Sub-Query, Count     |
+| 43.   | [Department Top 3 Salaries](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries7.sql) | Sub-Query, Join, Top 3     |
+| 44.   | [Fix Names in a Table](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings1.sql) | Strings, Easy Title Case     |
+| 45.   | [Patients With a Condition](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings2.sql) | Strings, Regexp     |
+| 46.   | [Delete Duplicate Emails](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings3.sql) | Delete    |
+| 47.   | [Second Highest Salary](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings4.sql) | Max     |
+| 48.   | [Group Sold Products By The Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings5.sql) | Group Concat     |
+| 49.   | [List the Products Ordered in a Period](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings6.sql) | Date Format      |
 | 50.   | [x](x) | x     |
 
 **Had to review solutions. Was not able to find a solution or idea online
