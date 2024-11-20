@@ -50,7 +50,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 42.   | [Department Top 3 Salaries](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/subqueries7.sql) | Sub-Query, Join, Top 3     |
 | 43.   | [Fix Names in a Table](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings1.sql) | Strings, Easy Title Case     |
 | 44.   | [Patients With a Condition](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings2.sql) | Strings, Regexp     |
-| 45.   | [x](x) | x     |
+| 45.   | [Delete Duplicate Emails](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings3.sql) | Delete    |
 | 46.   | [x](x) | x     |
 | 47.   | [x](x) | x     |
 | 48.   | [x](x) | x     |
