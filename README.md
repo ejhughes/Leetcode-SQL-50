@@ -1,6 +1,7 @@
 # Leetcode-SQL-50
 
 Completing [Leetcode's SQL 50 challenges](https://leetcode.com/studyplan/top-sql-50/)
+
 [My Leetcode Profile](https://leetcode.com/u/e_hughes/)
 
 Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Joins
