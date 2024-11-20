@@ -52,7 +52,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 44.   | [Patients With a Condition](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings2.sql) | Strings, Regexp     |
 | 45.   | [Delete Duplicate Emails](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings3.sql) | Delete    |
 | 46.   | [Second Highest Salary](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings4.sql) | Max     |
-| 47.   | [x](x) | x     |
+| 47.   | [Group Sold Products By The Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings5.sql) | Group Concat     |
 | 48.   | [x](x) | x     |
 | 49.   | [x](x) | x     |
 | 50.   | [x](x) | x     |
