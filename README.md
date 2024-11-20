@@ -53,7 +53,7 @@ Note: Leet Code uses MySQL Server. MySQL Server does not support Full Outer Join
 | 45.   | [Delete Duplicate Emails](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings3.sql) | Delete    |
 | 46.   | [Second Highest Salary](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings4.sql) | Max     |
 | 47.   | [Group Sold Products By The Date](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings5.sql) | Group Concat     |
-| 48.   | [x](x) | x     |
+| 48.   | [List the Products Ordered in a Period](https://github.com/ejhughes/Leetcode-SQL-50/blob/main/strings6.sql) | Date Format,      |
 | 49.   | [x](x) | x     |
 | 50.   | [x](x) | x     |
 
